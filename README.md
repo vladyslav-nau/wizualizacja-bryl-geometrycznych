@@ -1,5 +1,8 @@
 # Wizualizacja bryl geometrycznych
 Program do wizualizacji brył geometrycznych, takich jak: stożek i walec. Także animacja, atrybuty graficzne i możliwość ściągania obrazka.
+
+Aplikacja jest zrobiona na WindowsForms z wykorzystaniem języka C#.
+
 ### Funkcjalności:
 - **Wykreśl figurę.** Można zmienić wysokość, promień podłogi a nachylenie bryły.
   - Stożek
